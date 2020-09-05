@@ -7,11 +7,11 @@ hogwarts在线教育网站前端 后台管理系统, 主要使用element-ui开�
 
 ![data](https://github.com/brainy-is-sexy/hogwartsMOOC/blob/master/hou.png)
 
-![](https://github.com/brainy-is-sexy/hogwarts-FrontView/blob/master/f.png)
+![](https://github.com/brainy-is-sexy/hogwarts-FrontManage/blob/master/f.png)
 
-![](https://github.com/brainy-is-sexy/hogwarts-FrontView/blob/master/g.png)
+![](https://github.com/brainy-is-sexy/hogwarts-FrontManage/blob/master/g.png)
 
-![](https://github.com/brainy-is-sexy/hogwarts-FrontView/blob/master/h.png)
+![](https://github.com/brainy-is-sexy/hogwarts-FrontManage/blob/master/h.png)
 
 
 
